@@ -2,9 +2,14 @@ kkkk
 
 
 
+<<<<<<< HEAD
 DAVID2222
 ALEXANDRE
 
 
 
+=======
+david
+algomes322
+>>>>>>> 711d8e7eb68e55e463076920fdd93add2335dd9e
 
