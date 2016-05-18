@@ -23,12 +23,20 @@
     border-style: dashed;    
 }
 
-#jazz{
-    background-color: rosybrown;
-    border-style: dotted;    
-}
-
 #rock{
     background-color: chartreuse;
-    border-style: ridge;    
+    border-style: ridge;
+    height: 90px;
+    width: 50%;
+     
 }
+
+#jazz{
+    background-color: rosybrown;
+    border-style: dotted;   
+    height: 90px;
+    width: 50%;
+    
+    
+}
+
