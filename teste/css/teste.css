@@ -1,6 +1,6 @@
 .box{
     border-color: black;
-    /** padding: 20px; **/
+    padding: 20px;
 }
 
 #Loja{
@@ -16,4 +16,19 @@
 #rpg{
     background-color: darksalmon;
     border-style: double;
+}
+
+#Musica{
+    background-color: brown;
+    border-style: dashed;    
+}
+
+#jazz{
+    background-color: rosybrown;
+    border-style: dotted;    
+}
+
+#rock{
+    background-color: chartreuse;
+    border-style: ridge;    
 }
