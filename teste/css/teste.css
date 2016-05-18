@@ -1,10 +1,19 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 17/05/2016, 22:06:47
-    Author     : algomes
-*/
+.box{
+    border-color: black;
+    padding: 20px;
+}
 
+#Loja{
+    background-color: aqua;
+    border-style: solid;        
+}
+
+#jogos{
+    background-color: blueviolet;
+    border-style: dashed;        
+}
+
+#rpg{
+    background-color: darksalmon;
+    border-style: double;
+}
