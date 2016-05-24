@@ -1,21 +1,16 @@
 .box {
     padding: 30px;
     margin: 20px;
-    width: 120px:
-    
 }
 
 #filmes {
     background-color: blue;
-    border: solid;
-    
-    
+    border: solid;    
 }
 
 #games {
     background-color: red;
     border-style: double;
-    
 }
 
 #rpg {
@@ -23,13 +18,15 @@
     border-style: dotted;
 }
 
+
 p {
   text-indent: 20px;  
   text-justify: 10px;
   text-align: justify;
-    
-    
+  font-family: Arial; 
+  font-size: 16px;
 }
+
 
 h1 {
    text-transform: uppercase; 
