@@ -1,48 +1,37 @@
-.box{
-    border-color: black;
-    padding: 20px;
+.box {
+    padding: 30px;
+    margin: 20px;
+    width: 120px:
+    
 }
 
 #filmes {
-    background-color: aqua;
-    border-style: solid;        
+    background-color: blue;
+    border: solid;
+    
+    
 }
 
-#jogos{
-    background-color: blueviolet;
-    border-style: dashed;        
-}
-
-#rpg{
-    background-color: darksalmon;
+#games {
+    background-color: red;
     border-style: double;
+    
 }
 
-#Musica{
-    background-color: brown;
-    border-style: dashed;    
+#rpg {
+    background-color: greenyellow;
+    border-style: dotted;
 }
 
-#rock{
-    background-color: chartreuse;
-    border-style: ridge;
-    height: 90px;
-    width: 50%;
-     
-}
-
-#jazz{
-    background-color: rosybrown;
-    border-style: dotted;   
-    height: 90px;
-    width: 50%;
+p {
+  text-indent: 20px;  
+  text-justify: 10px;
+  text-align: justify;
     
     
 }
 
-#h1, h2, h3 {
-    color:blue;
-    text-decoration: underline;
-    
-    
+h1 {
+   text-transform: uppercase; 
+   text-decoration: underline;
 }
