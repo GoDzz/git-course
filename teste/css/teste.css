@@ -69,7 +69,7 @@ nav#menu li {
     background-color: #dddddd;
     padding: 5px;
     margin: 2.5px;
-    transition: background-color 1s; 
+    transition: background-color 1s;
 }
 
 nav#menu li:hover {
@@ -81,5 +81,26 @@ nav#menu li:hover {
 nav#menu h1 {
     display: none;
     
-    
-}
+ }
+ 
+ nav#menu a {
+    color: black;
+     
+ }
+ 
+ nav#menu a:hover {
+     color: #ffffff;
+ }
+ 
+ #header { 
+     height: 80px;
+     width: 430px;
+     border-style: dashed;
+     border-color: #6495ED;
+     border-width: 2px;
+     background-color: #BCD2EE;
+     position: absolute;
+     left: 900px;
+     
+ 
+ }
