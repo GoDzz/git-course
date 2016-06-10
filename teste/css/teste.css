@@ -1,3 +1,27 @@
+#quiz {
+     position: absolute;
+     top: -10px;
+     left: -20px;
+ }
+ 
+ #legenda {
+     display: none;
+ }
+
+ 
+#header { 
+     height: 80px;
+     width: 430px;
+     border-style: dashed;
+     border-color: #6495ED;
+     border-width: 2px;
+     background-color: #BCD2EE;
+     position: relative;
+     left: 900px;
+      
+}   
+ 
+ 
 .box_filmes {
     background-color: #00B2EE;
     border-color: white;
@@ -48,7 +72,7 @@ p {
 h1 {
    text-indent: 20px;
    text-transform: uppercase; 
-   text-decoration: underline;
+   text-decoration: none;
 }
 
 nav#menu {
@@ -66,15 +90,16 @@ nav#menu ul {
 
 nav#menu li {
     display: inline-block;
-    background-color: #dddddd;
+    background-color: #1E90FF;
     padding: 5px;
     margin: 2.5px;
     transition: background-color 1s;
 }
 
 nav#menu li:hover {
-    background-color: #606060;
-    
+    background-color: #dddddd;
+     
+   
     
 }
 
@@ -85,22 +110,14 @@ nav#menu h1 {
  
  nav#menu a {
     color: black;
+    text-decoration: none;
      
  }
  
  nav#menu a:hover {
-     color: #ffffff;
+     color: black;
  }
  
- #header { 
-     height: 80px;
-     width: 430px;
-     border-style: dashed;
-     border-color: #6495ED;
-     border-width: 2px;
-     background-color: #BCD2EE;
-     position: absolute;
-     left: 900px;
-     
  
- }
+ 
+ 
