@@ -14,8 +14,9 @@ h1 {
 }
 
 #cabecalho {
-    border-bottom: 1px black solid;
-    background: url("../imgs/emoji-quiz-free-trivia-game.jpg.png") no-repeat;
+    border-bottom: 1px black double;
+    background: url("../imgs/emoji-quiz-free-trivia-game.jpg.png") no-repeat 0px 10px;
+    height: 110px;
     
 } 
 
