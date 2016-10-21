@@ -1,0 +1,127 @@
+p {
+  text-indent: 20px;  
+  text-justify: 10px;
+  text-align: justify;
+  font-family: Arial; 
+  font-size: 16px;
+}
+
+
+h1 {
+   text-indent: 20px;
+   text-transform: uppercase; 
+   text-decoration: none;
+}
+
+#cabecalho {
+    border-bottom: 1px black double;
+    background: url("../imgs/emoji-quiz-free-trivia-game.jpg.png") no-repeat 0px 10px;
+    height: 110px;
+    
+} 
+
+#formul { 
+     height: 80px;
+     width: 430px;
+     border-style: dashed;
+     border-color: #6495ED;
+     border-width: 2px;
+     background-color: #BCD2EE;
+     position: relative;
+     left: 900px;
+}   
+ 
+nav#menu {
+    display: block;
+}
+
+nav#menu ul {
+    list-style: none;
+    text-transform: uppercase;
+    position: absolute;
+    top: -20px;
+    left: 300px;
+}
+
+nav#menu li {
+    display: inline-block;
+    background-color: #1E90FF;
+    padding: 5px;
+    margin: 2.5px;
+    transition: background-color 1s;
+}
+
+nav#menu li:hover {
+    background-color: #dddddd;
+}
+
+nav#menu h1 {
+    display: none;
+    
+}
+ 
+ nav#menu a {
+    color: black;
+    text-decoration: none;
+     
+}
+ 
+ nav#menu a:hover {
+     color: black;
+}
+
+div#interface {
+    padding: 50px auto 50px auto;
+    margin: 40px auto 10px auto;
+    background-color: #ffffff;  
+    
+}
+ 
+#box_filmes {
+    background-color: #00B2EE;
+    border-color: white;
+    border: groove;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    width: 1100px;
+    height: 550px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    position: absolute;
+    left: 25px;
+  
+}
+
+#box_games {
+    background-color: #EE0000;
+    border-style: groove;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    width: 1100px;
+    height: 550px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px;
+    position: relative;
+    top: 27px; 
+    left: -23px;
+}
+
+#box_rpg {
+    background-color: greenyellow;
+    border-style: groove;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    width: 1100px;
+    height: 550px;
+    position: relative;
+    top: 77px;
+    left: -23px;
+    margin: 10px 10px 30px 10px;
+    padding: 10px;
+}
+
+
+
+
+
+ 
+ 
+ 
+ 
